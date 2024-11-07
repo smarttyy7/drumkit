@@ -32,11 +32,3 @@ A simple and interactive Drum Kit web application where users can play different
 
 - **Change Sounds**: Replace the sound files in the `/sounds` directory with your own audio files. Ensure the filenames match those used in the `index.js`.
 - **Change Images**: Update the drum button images by replacing the files in the `/images` directory.
-
-## Credits
-
-Made by Sukumar.
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the terms of the license.
